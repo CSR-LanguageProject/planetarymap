@@ -41,12 +41,22 @@ Option 2
 
 * UNESCO Data
 * WDI World Bank Data
+	* Electricity
+	* Mobile Phone Ownership
+	* Improved Water
+* Population Data
 * Environmental Data
+* Facebook
+
 
 ### Analysis
 
 * Spatial correlations of change over time to language loss over time
 * Find hotspots of language loss and of linguistic diversity
+
+Methodology
+
+* Ghost cities project
 
 ## Next Steps
 
